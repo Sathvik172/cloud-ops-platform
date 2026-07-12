@@ -1,2 +1,37 @@
-# cloud-ops-platform
-A Cloud Native Operations Platform built using Spring Boot Microservices, React, AWS, Docker, Supabase, and GitHub Actions.
+# CloudOps Platform
+
+A Cloud Native Operations Platform built using
+
+- React
+- Spring Boot
+- Docker
+- AWS
+- GitHub Actions
+- Supabase
+
+---
+
+## Architecture
+
+Frontend
+
+↓
+
+Gateway
+
+↓
+
+Microservices
+
+↓
+
+Supabase
+
+---
+
+## Tech Stack
+
+Frontend
+Backend
+Cloud
+CI/CD
