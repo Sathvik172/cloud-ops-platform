@@ -1,0 +1,4 @@
+com\cloudops\logging\LoggingServiceApplication.class
+com\cloudops\logging\repository\LogRepository.class
+com\cloudops\logging\controller\LoggingController.class
+com\cloudops\logging\entity\LogEntry.class

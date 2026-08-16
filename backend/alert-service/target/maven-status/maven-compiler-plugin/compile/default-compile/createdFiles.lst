@@ -1,0 +1,4 @@
+com\cloudops\alert\AlertServiceApplication.class
+com\cloudops\alert\repository\AlertRepository.class
+com\cloudops\alert\controller\AlertController.class
+com\cloudops\alert\entity\Alert.class
